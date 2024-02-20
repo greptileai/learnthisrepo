@@ -1,7 +1,7 @@
 # Learn This Repo
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/learn%20this%20repo?style=flat&link=https%3A%2F%2Fapp.getonboardai.com%2Frepo%2F">
+<img alt="Learn This Repo" src="https://img.shields.io/badge/learn%20this%20repo%20with%20AI-58B585">
 
 
 
