@@ -1,7 +1,7 @@
 # Learn This Repo
 
 
-![Static Badge](https://img.shields.io/badge/learn%20this%20repo?style=flat&link=https%3A%2F%2Fapp.getonboardai.com%2Frepo%2F)
+<a href="https://deploy.stitch.tech/langfuse/langfuse"><img src="https://img.shields.io/badge/deploy_with-Stitch-%23E369F7?logo=amazonaws&color=%23E369F7" alt="Deploy to aws using Stitch"></a>
 
 
 
